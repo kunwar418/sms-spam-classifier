@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Models and Large Files
+*.pkl
+*.zip
